@@ -1,0 +1,15 @@
+---
+title: "Notes"
+author: "Marcus Lauritsen"
+date: "18 March 2019"
+output:
+  github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Packages
+
+* skimr (skim data, descriptive stats)
