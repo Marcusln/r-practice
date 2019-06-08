@@ -1,0 +1,863 @@
+﻿date_sign_up,customer_id,product_name,marketing_channel,City
+4/17/18 13:11,71041,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego 
+4/14/18 11:32,103289,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:53,107746,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 16:08,157441,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/18/18 08:04,158646,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego 
+4/18/18 15:41,178843,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/15/18 09:45,179297,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 08:21,182439,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Francisco
+4/17/18 06:57,186180,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego 
+4/19/18 20:39,190396,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/14/18 10:26,194229,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/13/18 20:17,194353,Classic - 3 meals per week for 2 people,Search Engine Marketing,Washington
+4/15/18 14:43,200286,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/16/18 07:35,201307,Classic - 3 meals per week for 2 people,TV / Radio Advertising,1San Diego
+4/15/18 06:54,203319,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 08:35,205233,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/13/18 12:08,205322,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/16/18 05:04,205611,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego 
+4/15/18 12:17,208066,3 Meals (vegetarian) for 4 people,Newsletters (internal),Philadelphia
+4/14/18 17:42,208079,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 09:58,209055,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/14/18 05:51,213420,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/15/18 20:30,213584,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego 
+4/14/18 15:43,213711,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/16/18 09:35,214129,Classic - 3 meals per week for 4 people,Search Engine Marketing,San Diego
+4/13/18 08:10,214667,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Chicago
+4/15/18 18:56,214779,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/17/18 05:14,215253,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego 
+4/13/18 17:48,215309,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 17:02,215319,Classic - 3 meals per week for 4 people,Newsletters (internal),Washington
+4/14/18 17:21,215332,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/13/18 08:50,215381,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 16:38,215386,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Washington
+4/16/18 09:30,215505,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/13/18 09:09,215561,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 02:24,215609,Classic - 3 meals per week for 2 people,Newsletters (internal),New York
+4/13/18 04:27,215627,Classic - 3 meals per week for 2 people,Newsletters (internal),New York
+4/13/18 05:00,215635,Classic - 3 meals per week for 2 people,Partnership Marketing,New York
+4/13/18 05:15,215640,Classic - 3 meals per week for 4 people,TV / Radio Advertising,New York
+4/13/18 05:22,215642,Classic - 3 meals per week for 2 people,TV / Radio Advertising,New York
+4/13/18 05:46,215662,3 Meals (vegetarian) for 2 people,Search Engine Marketing,New York
+4/13/18 06:15,215668,3 Meals (vegetarian) for 2 people,Newsletters (internal),New York
+4/13/18 06:23,215686,Classic - 3 meals per week for 2 people,TV / Radio Advertising,New York
+4/13/18 07:02,215723,Classic - 3 meals per week for 4 people,Search Engine Marketing,New York
+4/13/18 07:16,215757,Classic - 3 meals per week for 2 people,Newsletters (internal),New York
+4/13/18 07:26,215760,Classic - 3 meals per week for 2 people,Partnership Marketing,New York
+4/13/18 07:29,215768,Classic - 3 meals per week for 2 people,Newsletters (internal),New York
+4/13/18 07:32,215777,Classic - 3 meals per week for 2 people,TV / Radio Advertising,New York
+4/13/18 07:58,215811,Classic - 3 meals per week for 2 people,Newsletters (internal),New York
+4/13/18 08:09,215827,Classic - 3 meals per week for 2 people,Partnership Marketing,New York
+4/13/18 08:12,215835,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 14:06,215845,Classic - 3 meals per week for 4 people,Newsletters (internal),Chicago
+4/13/18 08:21,215849,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 08:35,215866,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 08:38,215886,3 Meals (vegetarian) for 2 people,Partnership Marketing,Chicago
+4/13/18 08:45,215899,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 08:50,215911,Classic - 3 meals per week for 2 people,Search Engine Marketing,Chicago
+4/13/18 09:01,215926,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 09:21,215957,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Chicago
+4/13/18 09:22,215960,Classic - 3 meals per week for 4 people,Partnership Marketing,Chicago
+4/13/18 09:30,215976,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Chicago
+4/13/18 09:36,215980,Classic - 3 meals per week for 4 people,Search Engine Marketing,Chicago
+4/13/18 09:38,215992,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Chicago
+4/13/18 10:01,216034,Classic - 3 meals per week for 4 people,Newsletters (internal),Chicago
+4/13/18 10:14,216038,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Chicago
+4/13/18 13:01,216049,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 10:23,216058,Classic - 3 meals per week for 2 people,Partnership Marketing,Chicago
+4/13/18 10:19,216066,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Chicago
+4/13/18 10:24,216079,Classic - 3 meals per week for 2 people,Partnership Marketing,Chicago
+4/13/18 10:56,216141,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 11:00,216146,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Chicago
+4/13/18 11:21,216171,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Chicago
+4/13/18 11:43,216213,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Chicago
+4/13/18 11:46,216218,Classic - 3 meals per week for 2 people,Partnership Marketing,Chicago
+4/13/18 11:52,216226,Classic - 3 meals per week for 2 people,Search Engine Marketing,Chicago
+4/13/18 12:38,216327,Classic - 3 meals per week for 2 people,Search Engine Marketing,Chicago
+4/13/18 12:40,216331,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Chicago
+4/13/18 13:11,216401,Classic - 3 meals per week for 2 people,Search Engine Marketing,Chicago
+4/13/18 13:17,216422,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 13:30,216453,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 13:34,216463,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 13:39,216466,Classic - 3 meals per week for 2 people,Partnership Marketing,Chicago
+4/13/18 13:44,216479,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 14:12,216487,Classic - 3 meals per week for 2 people,Newsletters (internal),Chicago
+4/13/18 13:56,216509,Classic - 3 meals per week for 2 people,Partnership Marketing,Chicago
+4/13/18 14:21,216561,Classic - 3 meals per week for 2 people,Search Engine Marketing,Washington
+4/13/18 14:23,216563,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 14:33,216587,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 14:50,216617,3 Meals (vegetarian) for 4 people,Newsletters (internal),Washington
+4/13/18 15:38,216669,Classic - 3 meals per week for 4 people,Newsletters (internal),Washington
+4/13/18 15:35,216702,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 15:35,216703,Classic - 3 meals per week for 2 people,Search Engine Marketing,Washington
+4/13/18 15:40,216709,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 15:42,216712,3 Meals (vegetarian) for 2 people,Newsletters (internal),Washington
+4/13/18 15:45,216718,Classic - 3 meals per week for 2 people,Search Engine Marketing,Washington
+4/13/18 15:46,216721,3 Meals (vegetarian) for 2 people,Newsletters (internal),Washington
+4/13/18 15:52,216734,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 15:53,216735,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 16:17,216782,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Washington
+4/13/18 16:53,216799,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 16:36,216808,Classic - 3 meals per week for 2 people,Partnership Marketing,Washington
+4/13/18 16:57,216833,Classic - 3 meals per week for 2 people,Search Engine Marketing,Washington
+4/13/18 17:02,216850,Classic - 3 meals per week for 2 people,Partnership Marketing,Washington
+4/13/18 17:14,216853,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 17:05,216858,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 17:36,216897,3 Meals (vegetarian) for 2 people,Search Engine Marketing,Washington
+4/13/18 17:44,216922,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 17:46,216938,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Washington
+4/13/18 18:08,216946,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 17:56,216949,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 17:58,216960,Classic - 3 meals per week for 4 people,Partnership Marketing,Washington
+4/13/18 17:59,216962,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 18:14,216977,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 18:31,217010,Classic - 3 meals per week for 4 people,Newsletters (internal),Washington
+4/13/18 18:27,217020,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 18:53,217076,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 18:56,217081,3 Meals (vegetarian) for 2 people,Newsletters (internal),Washington
+4/13/18 19:17,217111,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 19:33,217134,3 Meals (vegetarian) for 4 people,Search Engine Marketing,Washington
+4/13/18 19:44,217141,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Washington
+4/13/18 20:03,217145,Classic - 3 meals per week for 2 people,Search Engine Marketing,Washington
+4/13/18 19:47,217153,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 19:48,217157,Classic - 3 meals per week for 4 people,Newsletters (internal),Washington
+4/13/18 19:49,217161,3 Meals (vegetarian) for 2 people,Newsletters (internal),Washington
+4/15/18 13:26,217179,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/13/18 20:06,217186,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 20:21,217211,Classic - 3 meals per week for 2 people,Search Engine Marketing,Washington
+4/13/18 20:41,217219,Classic - 3 meals per week for 4 people,Search Engine Marketing,Washington
+4/13/18 20:36,217233,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Washington
+4/13/18 21:15,217264,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 21:34,217282,Classic - 3 meals per week for 2 people,Newsletters (internal),Washington
+4/13/18 21:37,217286,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/13/18 22:43,217319,3 Meals (vegetarian) for 2 people,Partnership Marketing,Los Angeles
+4/14/18 03:16,217365,Classic - 3 meals per week for 4 people,Search Engine Marketing,Los Angeles
+4/14/18 04:15,217380,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 06:04,217455,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 06:16,217460,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 06:23,217477,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 07:10,217539,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Los Angeles
+4/14/18 07:34,217566,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 07:25,217572,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 08:01,217631,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 08:09,217652,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 08:12,217658,Classic - 3 meals per week for 2 people,Partnership Marketing,Los Angeles
+4/14/18 08:31,217690,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 08:45,217717,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 08:51,217730,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 08:55,217735,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/16/18 11:49,217739,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/14/18 08:57,217749,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:03,217758,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:56,217776,3 Meals (vegetarian) for 2 people,Partnership Marketing,Los Angeles
+4/14/18 09:13,217778,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/17/18 09:39,217784,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/14/18 09:20,217787,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:16,217788,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:42,217792,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:19,217800,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:19,217801,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:25,217802,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:23,217815,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:29,217818,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 09:26,217822,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 10:02,217887,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:57,217890,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 09:56,217893,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 09:58,217897,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 10:17,217940,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:23,217941,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:22,217945,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:20,217950,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:21,217962,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:22,217967,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:26,217973,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:32,217982,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:30,217983,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:30,217990,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 10:32,218000,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:37,218011,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 10:37,218012,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:40,218014,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:40,218015,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:47,218022,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 10:41,218025,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:46,218030,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:48,218033,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:46,218038,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:50,218041,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:53,218045,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 10:49,218046,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 10:50,218048,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:52,218050,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:54,218054,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:56,218055,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 10:56,218057,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:01,218060,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 10:58,218061,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:27,218063,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 11:45,218070,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:03,218072,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:05,218076,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 11:05,218077,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 15:38,218093,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 11:11,218096,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Los Angeles
+4/14/18 11:14,218100,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:18,218111,3 Meals (vegetarian) for 4 people,Newsletters (internal),Los Angeles
+4/14/18 11:19,218113,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 11:23,218118,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:29,218130,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 11:30,218142,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 11:33,218150,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 11:34,218151,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 11:35,218152,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:38,218164,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 11:49,218206,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:52,218221,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 11:52,218224,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:54,218225,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:55,218247,3 Meals (vegetarian) for 2 people,Newsletters (internal),Los Angeles
+4/14/18 11:59,218264,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 11:59,218265,3 Meals (vegetarian) for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 12:01,218275,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 12:01,218277,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 12:21,218289,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 12:12,218337,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 12:25,218387,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 12:26,218395,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 12:30,218406,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 12:30,218409,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 12:37,218429,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 12:38,218432,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 13:03,218504,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 13:11,218523,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 13:11,218532,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 13:14,218541,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 13:16,218546,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 13:28,218575,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 15:44,218593,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 13:41,218614,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 13:49,218630,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 13:54,218644,Classic - 3 meals per week for 2 people,Partnership Marketing,Los Angeles
+4/14/18 13:58,218653,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 14:31,218671,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 14:19,218695,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 14:18,218697,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Los Angeles
+4/14/18 14:24,218705,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 15:35,218708,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Francisco
+4/14/18 14:44,218751,Classic - 3 meals per week for 4 people,Newsletters (internal),Los Angeles
+4/14/18 14:46,218763,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 15:19,218784,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 14:55,218792,Classic - 3 meals per week for 2 people,Search Engine Marketing,Los Angeles
+4/14/18 16:05,218796,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 14:57,218797,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 14:57,218799,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 15:13,218813,Classic - 3 meals per week for 2 people,Newsletters (internal),Los Angeles
+4/14/18 15:18,218839,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 15:23,218852,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 15:27,218860,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/14/18 15:33,218870,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 15:39,218883,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 15:42,218889,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 15:56,218925,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 16:14,218968,Classic - 3 meals per week for 4 people,Search Engine Marketing,San Francisco
+4/14/18 16:18,218975,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 16:21,218976,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Francisco
+4/14/18 16:29,218984,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 16:22,218986,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Francisco
+4/14/18 16:29,219015,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 16:32,219020,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 16:33,219025,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/14/18 16:35,219029,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 17:00,219034,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 16:43,219043,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/14/18 16:47,219055,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/14/18 16:55,219075,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Francisco
+4/14/18 16:58,219080,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 17:01,219083,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Francisco
+4/14/18 17:01,219086,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/14/18 17:05,219095,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 17:14,219102,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Francisco
+4/14/18 17:56,219134,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 17:27,219135,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 17:23,219136,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Francisco
+4/14/18 17:23,219137,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 17:26,219146,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 17:26,219149,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 17:29,219151,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 17:28,219152,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 17:44,219196,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 17:49,219208,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 18:11,219241,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 18:19,219263,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 18:28,219285,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 18:28,219286,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 18:31,219297,Classic - 3 meals per week for 4 people,Partnership Marketing,San Francisco
+4/14/18 18:35,219304,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 18:40,219311,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 18:40,219321,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 18:42,219325,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 18:44,219332,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 19:02,219345,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 18:53,219360,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 18:55,219367,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 18:56,219369,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 18:56,219371,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 18:58,219373,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 19:03,219379,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/14/18 19:00,219383,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 19:05,219397,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 19:06,219403,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 19:08,219409,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 19:18,219420,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 19:18,219433,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/15/18 08:14,219434,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 19:26,219450,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 19:32,219460,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Francisco
+4/14/18 21:45,219462,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 19:37,219467,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 19:50,219481,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Francisco
+4/14/18 19:46,219487,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 19:51,219494,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 20:03,219512,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 20:03,219517,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 20:06,219520,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 20:06,219522,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/14/18 20:10,219530,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/14/18 20:17,219545,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 20:19,219546,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 20:21,219549,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/14/18 20:35,219568,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/14/18 21:00,219579,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 20:44,219590,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 20:48,219598,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 20:47,219600,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/14/18 21:25,219649,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/14/18 21:29,219655,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 21:40,219662,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 21:43,219667,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Francisco
+4/14/18 21:59,219688,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/14/18 22:13,219700,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 22:21,219703,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Francisco
+4/14/18 22:25,219705,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 22:45,219716,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 22:56,219726,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Francisco
+4/14/18 23:08,219729,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/14/18 23:05,219731,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 23:08,219732,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/14/18 23:13,219736,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 03:50,219794,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/15/18 12:49,219803,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 05:11,219836,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/15/18 05:18,219845,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/15/18 05:32,219862,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 05:35,219867,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 06:08,219882,3 Meals (vegetarian) for 2 people,Search Engine Marketing,San Francisco
+4/15/18 06:06,219896,Classic - 3 meals per week for 4 people,Search Engine Marketing,San Francisco
+4/15/18 06:18,219919,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Francisco
+4/15/18 06:27,219931,Classic - 3 meals per week for 4 people,Search Engine Marketing,San Francisco
+4/15/18 06:29,219940,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 06:37,219957,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/15/18 06:40,219962,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/15/18 06:44,219974,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/15/18 07:06,220011,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/15/18 07:08,220015,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 07:14,220026,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 07:30,220031,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/15/18 08:31,220074,Classic - 3 meals per week for 2 people,Partnership Marketing,San Francisco
+4/15/18 07:45,220085,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/15/18 07:59,220094,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 08:00,220118,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Francisco
+4/15/18 08:02,220122,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 08:05,220127,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/15/18 08:07,220135,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 08:10,220145,Classic - 3 meals per week for 4 people,Newsletters (internal),San Francisco
+4/15/18 08:17,220160,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 08:23,220173,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/15/18 08:30,220188,3 Meals (vegetarian) for 4 people,TV / Radio Advertising,San Francisco
+4/15/18 09:03,220229,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 09:02,220233,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 09:07,220282,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Francisco
+4/15/18 09:16,220306,Classic - 3 meals per week for 2 people,Newsletters (internal),San Francisco
+4/15/18 09:16,220310,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 09:22,220327,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 09:26,220336,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Philadelphia
+4/15/18 09:26,220340,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 09:30,220352,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 09:48,220392,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 09:55,220418,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 09:55,220418,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 09:55,220419,Classic - 3 meals per week for 4 people,Search Engine Marketing,Philadelphia
+4/15/18 09:56,220423,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 09:59,220435,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 10:12,220456,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 10:22,220483,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 10:47,220537,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 10:47,220544,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 10:55,220564,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 10:57,220569,Classic - 3 meals per week for 4 people,Search Engine Marketing,Philadelphia
+4/15/18 10:58,220572,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 11:04,220579,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 11:08,220592,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 11:48,220605,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 11:28,220639,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 11:33,220645,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 11:39,220654,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 11:55,220686,3 Meals (vegetarian) for 4 people,Search Engine Marketing,Philadelphia
+4/15/18 12:02,220700,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 12:06,220705,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 12:08,220709,3 Meals (vegetarian) for 2 people,Newsletters (internal),Philadelphia
+4/15/18 12:09,220714,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 12:14,220729,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 12:27,220753,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 12:39,220775,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 12:39,220776,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 12:47,220798,3 Meals (vegetarian) for 2 people,Partnership Marketing,Philadelphia
+4/15/18 12:49,220800,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 13:00,220815,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 13:01,220831,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 13:06,220832,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 13:02,220833,3 Meals (vegetarian) for 2 people,Partnership Marketing,Philadelphia
+4/15/18 13:08,220847,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 13:27,220879,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 13:43,220915,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 13:44,220932,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 13:49,220944,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 17:51,220988,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 14:08,220992,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 14:16,221011,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 14:31,221045,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 14:29,221046,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 14:39,221052,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Philadelphia
+4/15/18 14:43,221079,Classic - 3 meals per week for 4 people,Search Engine Marketing,Philadelphia
+4/15/18 14:53,221098,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 14:58,221110,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 15:07,221126,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 15:11,221134,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 15:20,221153,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 15:25,221162,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 15:28,221168,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 15:43,221170,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 15:29,221171,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 15:45,221184,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 16:02,221242,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Philadelphia
+4/15/18 16:07,221250,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Philadelphia
+4/15/18 17:09,221270,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 16:22,221273,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 16:34,221293,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 16:38,221297,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 16:55,221331,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 16:55,221333,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 16:58,221336,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Philadelphia
+4/15/18 17:01,221342,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 17:51,221347,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 17:09,221362,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 17:10,221363,Classic - 3 meals per week for 4 people,Search Engine Marketing,Philadelphia
+4/15/18 17:10,221365,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 17:13,221371,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 17:15,221374,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 17:19,221384,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 17:30,221408,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 17:35,221424,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 17:43,221438,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 17:44,221441,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 17:49,221455,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:02,221468,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:01,221470,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 17:57,221472,Classic - 3 meals per week for 4 people,Search Engine Marketing,Philadelphia
+4/15/18 18:00,221479,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:04,221488,Classic - 3 meals per week for 2 people,Partnership Marketing,Philadelphia
+4/15/18 18:07,221492,3 Meals (vegetarian) for 4 people,Search Engine Marketing,Philadelphia
+4/15/18 18:08,221497,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:08,221498,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:08,221499,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 09:55,220418,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:12,221501,3 Meals (vegetarian) for 4 people,Newsletters (internal),Philadelphia
+4/15/18 18:12,221501,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:12,221510,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:24,221541,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:28,221544,Classic - 3 meals per week for 2 people,Search Engine Marketing,Philadelphia
+4/15/18 18:47,221552,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:29,221553,3 Meals (vegetarian) for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:30,221558,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 18:32,221560,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:32,221564,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:38,221573,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:37,221583,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:40,221589,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:42,221592,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:57,221593,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:45,221596,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:47,221605,Classic - 3 meals per week for 4 people,Newsletters (internal),Philadelphia
+4/15/18 18:54,221606,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:51,221614,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:50,221615,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:51,221618,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 19:02,221619,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 18:52,221620,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 18:54,221623,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Philadelphia
+4/15/18 19:04,221640,Classic - 3 meals per week for 2 people,Newsletters (internal),Philadelphia
+4/15/18 19:16,221649,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/15/18 19:07,221653,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/15/18 19:07,221654,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/15/18 19:13,221664,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/15/18 19:32,221710,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/15/18 19:32,221710,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/15/18 19:34,221715,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/15/18 19:34,221717,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/15/18 19:35,221718,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/15/18 19:39,221726,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/15/18 19:44,221732,3 Meals (vegetarian) for 2 people,Search Engine Marketing,San Diego
+4/15/18 19:49,221745,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/15/18 19:56,221757,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/15/18 20:13,221784,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/15/18 20:21,221792,Classic - 3 meals per week for 4 people,Search Engine Marketing,San Diego
+4/15/18 21:03,221848,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/15/18 21:33,221866,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/15/18 21:35,221867,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/15/18 21:43,221874,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/15/18 22:13,221886,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,San Diego
+4/15/18 22:23,221888,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/15/18 22:22,221892,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/15/18 23:16,221917,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/15/18 23:25,221918,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/15/18 23:47,221924,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/15/18 23:58,221926,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Diego
+4/16/18 03:51,221965,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/16/18 04:46,221976,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/16/18 04:49,221980,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Diego
+4/16/18 05:39,222004,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 05:55,222015,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 06:18,222024,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/16/18 06:17,222031,Classic - 3 meals per week for 2 people,Partnership Marketing,SanDiego
+4/16/18 06:47,222076,3 Meals (vegetarian) for 2 people,Newsletters (internal),SanDiego
+4/16/18 07:01,222092,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 12:35,222219,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 08:17,222222,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 08:25,222230,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/16/18 08:44,222261,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,San Diego
+4/16/18 08:58,222289,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/16/18 08:57,222290,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/16/18 09:08,222292,Classic - 3 meals per week for 2 people,Newsletters (internal),San Dego
+4/16/18 09:47,222359,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 09:59,222377,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 10:15,222395,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Diego
+4/16/18 10:45,222441,Classic - 3 meals per week for 4 people,Search Engine Marketing,San Diego
+4/16/18 10:56,222459,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 15:59,222469,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 11:10,222482,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 09:31,222488,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 11:18,222492,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 11:33,222499,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/16/18 11:28,222501,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/16/18 12:13,222554,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/16/18 12:59,222614,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/16/18 13:05,222618,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 13:11,222625,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 13:27,222653,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 13:46,222676,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Diego
+4/16/18 14:04,222706,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/16/18 14:08,222716,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 14:10,222720,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/16/18 14:13,222723,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/16/18 14:21,222736,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 14:26,222747,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/16/18 14:58,222792,3 Meals (vegetarian) for 2 people,Search Engine Marketing,San Diego
+4/16/18 15:19,222816,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 15:56,222863,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 16:10,222878,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/16/18 16:14,222885,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 16:33,222903,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Diego
+4/16/18 16:41,222919,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/16/18 16:47,222926,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/16/18 17:21,222948,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 17:31,222958,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 18:09,222999,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 18:51,223059,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/16/18 18:57,223064,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 19:00,223070,3 Meals (vegetarian) for 4 people,Newsletters (internal),San Diego
+4/16/18 19:11,223080,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/16/18 19:57,223122,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 20:40,223167,3 Meals (vegetarian) for 2 people,Search Engine Marketing,San Diego
+4/16/18 21:06,223178,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/16/18 21:29,223201,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/16/18 22:59,223235,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 01:08,223256,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 03:04,223265,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 04:42,223282,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 05:42,223317,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/17/18 06:23,223349,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Diego
+4/17/18 06:29,223350,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 06:42,223366,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 06:52,223377,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/17/18 07:00,223385,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 07:02,223387,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/17/18 08:18,223416,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 08:00,223450,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 08:09,223457,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 08:15,223464,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 08:30,223482,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 08:44,223501,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 08:54,223513,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Diego
+4/17/18 09:06,223527,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/17/18 09:11,223535,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/17/18 09:41,223576,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 09:57,223595,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 10:37,223636,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 10:33,223640,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/17/18 10:38,223642,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,San Diego
+4/17/18 11:02,223667,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Diego
+4/17/18 11:06,223673,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 11:21,223693,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 12:05,223758,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Diego
+4/17/18 12:34,223786,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 12:44,223814,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 12:49,223824,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 13:05,223825,Classic - 3 meals per week for 4 people,Partnership Marketing,San Diego
+4/17/18 13:05,223846,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 13:04,223847,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 13:22,223865,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 13:36,223871,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/17/18 13:25,223874,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/17/18 13:33,223891,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 14:27,223948,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 14:39,223961,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/17/18 14:43,223970,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 15:19,223993,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/17/18 15:40,224004,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 15:58,224034,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 16:03,224040,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 16:26,224067,Classic - 3 meals per week for 4 people,Partnership Marketing,San Diego
+4/17/18 16:31,224073,Classic - 3 meals per week for 4 people,Search Engine Marketing,San Diego
+4/17/18 17:04,224107,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 17:08,224112,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/17/18 17:20,224120,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 17:51,224138,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Diego
+4/17/18 17:48,224141,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/17/18 17:52,224146,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 18:07,224158,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/17/18 18:15,224166,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 18:42,224189,Classic - 3 meals per week for 4 people,Partnership Marketing,San Diego
+4/17/18 19:20,224213,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/17/18 19:17,224216,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 19:46,224238,3 Meals (vegetarian) for 2 people,Partnership Marketing,San Diego
+4/17/18 19:52,224242,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/17/18 20:01,224250,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 20:03,224253,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 20:16,224254,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 20:06,224256,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/17/18 21:43,224301,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/17/18 21:42,224302,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,San Diego
+4/18/18 10:26,224308,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 05:10,224378,3 Meals (vegetarian) for 4 people,Search Engine Marketing,San Diego
+4/18/18 06:05,224409,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/18/18 07:13,224450,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/18/18 07:26,224468,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Diego
+4/18/18 08:11,224513,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 08:14,224515,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 08:27,224529,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 08:24,224532,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 08:48,224540,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 08:33,224551,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,San Diego
+4/18/18 08:43,224562,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/18/18 08:44,224564,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 08:44,224567,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 13:24,224579,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 08:58,224589,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/18/18 09:10,224600,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/18/18 09:09,224601,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/18/18 09:18,224609,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 09:22,224615,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 09:26,224616,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 09:24,224617,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 09:34,224620,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 09:33,224626,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 09:37,224634,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 09:45,224642,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 09:44,224643,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 09:50,224649,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/18/18 09:55,224651,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/18/18 10:03,224658,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 10:17,224678,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Diego
+4/18/18 10:25,224683,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 10:31,224686,Classic - 3 meals per week for 4 people,Newsletters (internal),San Diego
+4/18/18 10:48,224710,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/18/18 10:53,224712,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 11:01,224717,3 Meals (vegetarian) for 2 people,Newsletters (internal),San Diego
+4/18/18 11:10,224720,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/18/18 11:12,224726,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 11:42,224768,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 12:05,224792,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 12:06,224796,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 12:27,224818,Classic - 3 meals per week for 4 people,TV / Radio Advertising,San Diego
+4/18/18 12:45,224839,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/18/18 12:52,224848,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 12:59,224856,Classic - 3 meals per week for 2 people,Search Engine Marketing,San Diego
+4/18/18 13:23,224880,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 13:23,224883,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 13:44,224913,Classic - 3 meals per week for 2 people,Partnership Marketing,San Diego
+4/18/18 14:03,224933,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 14:21,224960,Classic - 3 meals per week for 2 people,Newsletters (internal),San Diego
+4/18/18 17:45,224979,3 Meals (vegetarian) for 2 people,Newsletters (internal),Miami
+4/18/18 15:10,225011,Classic - 3 meals per week for 2 people,TV / Radio Advertising,San Diego
+4/18/18 15:09,225013,Classic - 3 meals per week for 2 people,Search Engine Marketing,Miami
+4/18/18 15:14,225018,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 15:50,225024,Classic - 3 meals per week for 2 people,Partnership Marketing,Miami
+4/18/18 15:22,225028,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/18/18 15:26,225034,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 15:36,225041,3 Meals (vegetarian) for 4 people,Partnership Marketing,Miami
+4/18/18 16:11,225061,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 16:00,225063,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 16:06,225068,Classic - 3 meals per week for 4 people,Newsletters (internal),Miami
+4/18/18 16:24,225083,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 16:25,225085,3 Meals (vegetarian) for 2 people,Newsletters (internal),Miami
+4/18/18 16:33,225092,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 17:04,225125,Classic - 3 meals per week for 2 people,Search Engine Marketing,Miami
+4/18/18 17:17,225132,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 17:27,225145,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 17:28,225148,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 17:46,225159,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 17:46,225163,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 17:57,225176,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 18:22,225196,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 18:32,225216,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 18:29,225217,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 18:36,225222,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Miami
+4/18/18 18:43,225226,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/18/18 19:01,225239,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/18/18 19:09,225246,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 20:47,225311,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/18/18 20:54,225316,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 20:59,225323,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 21:08,225332,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/18/18 22:36,225362,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 22:37,225363,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/18/18 23:18,225368,Classic - 3 meals per week for 4 people,Partnership Marketing,Miami
+4/19/18 04:27,225395,Classic - 3 meals per week for 4 people,Newsletters (internal),Miami
+4/19/18 05:16,225409,3 Meals (vegetarian) for 2 people,Partnership Marketing,Miami
+4/19/18 06:47,225471,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 06:43,225480,Classic - 3 meals per week for 2 people,Search Engine Marketing,Miami
+4/19/18 07:34,225533,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 07:52,225549,3 Meals (vegetarian) for 4 people,TV / Radio Advertising,Miami
+4/19/18 07:52,225552,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Miami
+4/19/18 08:03,225563,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 08:06,225570,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 08:13,225578,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 08:15,225583,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 08:21,225596,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 08:24,225605,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 08:42,225622,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 08:38,225627,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 18:15,225671,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 09:29,225674,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/19/18 09:13,225677,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 09:21,225687,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 09:24,225691,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/19/18 09:36,225706,3 Meals (vegetarian) for 2 people,Newsletters (internal),Miami
+4/19/18 10:10,225740,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 10:23,225745,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Miami
+4/19/18 10:26,225764,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 10:36,225771,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 10:40,225778,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 10:54,225798,Classic - 3 meals per week for 2 people,Partnership Marketing,Miami
+4/19/18 10:58,225800,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/19/18 11:06,225812,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/19/18 11:07,225813,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 11:08,225816,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 11:44,225822,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Miami
+4/19/18 11:23,225835,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 11:43,225852,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 11:53,225880,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 11:59,225884,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 12:18,225899,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 12:13,225904,Classic - 3 meals per week for 4 people,Newsletters (internal),Miami
+4/19/18 12:15,225906,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 12:15,225910,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 12:20,225919,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 12:22,225927,Classic - 3 meals per week for 2 people,Partnership Marketing,Miami
+4/19/18 12:23,225931,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/19/18 12:29,225940,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/19/18 12:42,225961,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 12:55,225968,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 12:52,225972,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 13:09,225982,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 13:03,225989,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 13:12,225999,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 13:11,226002,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Miami
+4/19/18 13:14,226009,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 13:21,226020,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 13:21,226022,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 13:22,226024,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 13:29,226026,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 13:39,226047,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 13:42,226052,Classic - 3 meals per week for 2 people,Search Engine Marketing,Miami
+4/19/18 13:43,226055,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 13:46,226059,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 14:00,226080,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 14:03,226081,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Miami
+4/19/18 14:04,226087,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 14:12,226102,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Miami
+4/19/18 14:28,226121,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 14:35,226128,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 14:32,226131,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 14:33,226132,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 14:36,226137,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 14:36,226138,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 14:37,226140,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/19/18 14:39,226147,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 14:49,226160,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 15:00,226171,Classic - 3 meals per week for 2 people,Partnership Marketing,Miami
+4/19/18 15:04,226178,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 15:07,226183,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 15:15,226202,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 15:25,226213,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 15:26,226215,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 15:36,226225,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 15:37,226230,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 15:38,226232,Classic - 3 meals per week for 4 people,Newsletters (internal),Miami
+4/19/18 15:42,226236,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 16:00,226259,Classic - 3 meals per week for 2 people,Search Engine Marketing,Miami
+4/19/18 16:01,226261,Classic - 3 meals per week for 4 people,Partnership Marketing,Miami
+4/19/18 16:30,226298,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 16:34,226301,3 Meals (vegetarian) for 2 people,Newsletters (internal),Miami
+4/19/18 16:43,226315,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 16:56,226330,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 17:07,226331,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 17:03,226341,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 17:15,226348,3 Meals (vegetarian) for 2 people,Newsletters (internal),Miami
+4/19/18 17:09,226352,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 17:25,226372,3 Meals (vegetarian) for 2 people,Partnership Marketing,Miami
+4/19/18 17:29,226384,Classic - 3 meals per week for 4 people,Partnership Marketing,Miami
+4/19/18 17:31,226387,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 17:40,226397,Classic - 3 meals per week for 4 people,Search Engine Marketing,Miami
+4/19/18 17:40,226400,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 17:48,226408,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 17:51,226414,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 18:13,226423,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 18:14,226427,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 17:57,226428,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 18:04,226437,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 18:08,226445,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 18:26,226475,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 18:28,226477,3 Meals (vegetarian) for 2 people,TV / Radio Advertising,Miami
+4/19/18 18:33,226487,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 18:35,226489,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 18:44,226505,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 18:45,226510,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 18:55,226525,Classic - 3 meals per week for 4 people,Newsletters (internal),Miami
+4/19/18 19:07,226539,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 19:25,226544,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 19:30,226562,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 19:41,226575,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 19:56,226594,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 19:56,226594,Classic - 3 meals per week for 4 people,Newsletters (internal),Miami
+4/19/18 20:04,226601,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 20:48,226627,Classic - 3 meals per week for 4 people,TV / Radio Advertising,Miami
+4/19/18 20:54,226642,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 21:40,226656,Classic - 3 meals per week for 2 people,Newsletters (internal),Miami
+4/19/18 21:35,226658,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 22:14,226671,Classic - 3 meals per week for 4 people,Partnership Marketing,Miami
+4/19/18 22:33,226678,Classic - 3 meals per week for 2 people,TV / Radio Advertising,Miami
+4/19/18 22:54,226683,Classic - 3 meals per week for 2 people,Partnership Marketing,Miami
+4/19/18 23:54,226697,Classic - 3 meals per week for 2 people,Partnership Marketing,Miami
