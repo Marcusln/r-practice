@@ -1,0 +1,23 @@
+---
+title: "R Notebook"
+output:
+  html_notebook: default
+---
+
+1. How many customers purchased more than 1 product? (Hint: Customer ID stays the same per customer when he/she buys several food boxes)
+2. Prepare a chart that shows sold food boxes per weekday (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday; show how you calculated weekday)
+3. What was the earliest and what was the latest time of the day we sold a product on 14.04.2018? Use column A from tab Data and explain how you got to your result
+4. How many products did we sell for 2 people and how many products did we sell for 4 people? (Use column D tab Data, explain how you got to your result)
+5. Prepare an additional column in tab Data, in which you convert format "Date Time" from column A into format "Date" with a formula and prepare an overview how many classic food boxes and how many veggie food boxes we sold per "Date"
+6. How many veggie food boxes (hint: column C) did we sell on 14.04.2018 (hint: column A) via marketing channel Newsletters (hint: column D); Solve with 1 formula and show the formula you used
+7. Count how many food boxes "Classic - 3 meals per week for 2 people" we sold via marketing channel "TV / Radio Advertising" (Solve with 1 formula and show the formula you used)
+8. Prepare a chart that shows sold food boxes per marketing channel in San Diego (Hint: You might have to clean up city name "San Diego" in column E first, explain how you got all San Diego variations into a format you can work with)
+9. Which customer ID bought most food boxes? Explain how you determined relevant customer ID and note down which city this customer ID comes from
+10. In an additional column in tab Data, mark all boxes sold in "New York" via Marketing channel "Newsletters (internal)" with a "1", all other box city combinations with a "0"; Solve with 1 formula
+11. Create an additional column in tab Data that shows state from tab State (Explain procedure)
+12. Which marketing channels worked best in which states (Use tab "State" and prepare an overview: number of sold boxes per marketing channel per state)
+
+```{r}
+
+```
+
